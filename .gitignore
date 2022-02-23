@@ -1,2 +1,3 @@
 data/*
 experiments/.ipynb_checkpoints
+experiments/openml/*
